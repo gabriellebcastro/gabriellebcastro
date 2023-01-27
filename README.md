@@ -19,7 +19,7 @@
 
 ##
 
-![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?gabriellebcastro=anuraghazra&show_icons=true&theme=transparent)
+![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?gabriellebcastro=gabriellebcastroa&show_icons=true&theme=transparent)
 
 
           
