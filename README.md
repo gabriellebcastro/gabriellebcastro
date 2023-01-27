@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 Estudo Ciência da Computação e sou dev. fullstack júnior.
 
-### Tenho experiência com as linguagens & tecnologias:
+### 🖥 Tenho experiência com as linguagens & tecnologias:
 
 <div style="display: inline_block">
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -18,8 +18,6 @@
 </div>     
 
 ##
-
-![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?gabriellebcastro=gabriellebcastroa&show_icons=true&theme=transparent)
 
 
           
