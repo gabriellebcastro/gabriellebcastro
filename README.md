@@ -1,6 +1,6 @@
-### Oiê, seja bem vinde ao meu perfil.👋
+# 👋 Oiê, seja bem vinde ao meu perfil.
 
-### 👩🏽‍💻 Estudo Ciência da Computação e sou dev. fullstack júnior.
+## 👩🏽‍💻 Estudo Ciência da Computação e sou dev. fullstack júnior.
 
 ### Tenho experiência com as linguagens & tecnologias:
 
@@ -13,7 +13,15 @@
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>          
+          <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+</div>     
+
+##
+
+### Entre em contato comigo:
+
+
           
           
           
