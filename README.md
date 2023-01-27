@@ -1,5 +1,8 @@
 ### Oiê, seja bem vindo ao meu perfil.👋
 
+## 👩🏽‍💻 Estudo Ciência da Computação e sou dev. fullstack júnior.
+
+
 <!--
 **gabriellebcastro/gabriellebcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
