@@ -2,6 +2,8 @@
 
 #### Meu nome é Gabrielle, tenho 22 anos e estudo Ciência da Computação na Universidade Federal do Oeste do Pará. Programo desde o ensino médio e atualmente estou focada no front-end, aprimorando minha habilidades em Javascript, Typescript e Angular. Fique à vontade para ver os projetos que estou desenvolvendo no meu perfil! 😊
 
+#### My name is Gabrielle, I'm 22 years old and I study Computer Science at the Federal University of Western Pará. I've been programming since high school and I'm currently focused on front-end development, improving my skills in Javascript, Typescript and Angular. Feel free to see the projects I'm developing on my profile!
+
 # 🖥 Tecnologias e ferramentas:
 
 <div style="display: inline_block">
