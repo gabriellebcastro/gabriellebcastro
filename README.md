@@ -1,8 +1,8 @@
-# 👋 Oiê, seja bem vinde ao meu perfil.
+# 👋 Oiê, seja bem vinde ao meu perfil do Github.
 
-## 👩🏽‍💻 Estudo Ciência da Computação e sou dev. fullstack júnior.
+#### Meu nome é Gabrielle, tenho 22 anos e estudo Ciência da Computação na Universidade Federal do Oeste do Pará. Programo desde o ensino médio e atualmente estou focada no front-end, aprimorando minha habilidades em Javascript, Typescript e Angular. Fique à vontade para ver os projetos que estou desenvolvendo no meu perfil! 😊
 
-### 🖥 Tenho experiência com as linguagens & tecnologias:
+# 🖥 Tecnologias e ferramentas:
 
 <div style="display: inline_block">
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -17,7 +17,6 @@
           
 </div>     
 
-##
 
 
           
