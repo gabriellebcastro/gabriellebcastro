@@ -27,13 +27,13 @@
           <a href="https://www.linkedin.com/in/gabriellebcastro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-                             badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+# 💡 Gitstats:
 
 <div>
-          <a href="https://github.com/gabriellebcastro">
-          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?                                                     username=gabriellebcastro&layout=compact&langs_count=7&theme=dracula"/>
-          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?                                                                 username=gabriellebcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gabriellebcastro">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriellebcastro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriellebcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 
           
