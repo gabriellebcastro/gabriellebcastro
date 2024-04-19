@@ -1,12 +1,12 @@
 # 👋 Olá, seja bem-vinde ao meu perfil do Github! | Hello, welcome to my Github profile!
 
-## Sobre mim
+## Sobre mim | About me
 
 Olá! Meu nome é **Gabrielle**, tenho 23 anos e estudo Ciência da Computação na Universidade Federal do Oeste do Pará, atualmente trabalho como **Analista de Testes Júnior**. Programo desde o ensino médio e no momento estou focando no front-end, aprimorando minhas habilidades em Javascript e Typescript (mas a meta é me tornar full-stack). Sinta-se à vontade para explorar os projetos que estou desenvolvendo aqui no meu perfil! 😊
 
 Hello! My name is Gabrielle, I’m 23 years old and I study Computer Science at the Federal University of Western Pará, currently working as a Junior Test Analyst. I’ve been programming since high school and at the moment I’m focusing on front-end, improving my skills in Javascript and Typescript (but the goal is to become full-stack). Feel free to explore the projects I’m developing here on my profile! 😊
 
-## 🖥 Tecnologias e ferramentas | About me
+## 🖥 Tecnologias e ferramentas | Technologies and tools
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
 These are some of the technologies and tools I use:
