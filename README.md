@@ -1,10 +1,11 @@
-# 👋 Oiê, seja bem vinde ao meu perfil do Github.
+# 👋 Olá, seja bem-vindo(a) ao meu perfil do Github!
 
-#### Meu nome é Gabrielle, tenho 22 anos e estudo Ciência da Computação na Universidade Federal do Oeste do Pará. Programo desde o ensino médio e atualmente estou focada no front-end, aprimorando minha habilidades em Javascript, Typescript e Angular. Fique à vontade para ver os projetos que estou desenvolvendo no meu perfil! 😊
+## Sobre mim
 
-#### My name is Gabrielle, I'm 22 years old and I study Computer Science at the Federal University of Western Pará. I've been programming since high school and I'm currently focused on front-end development, improving my skills in Javascript, Typescript and Angular. Feel free to see the projects I'm developing on my profile!
+Olá! Meu nome é **Gabrielle**, tenho 23 anos e estudo Ciência da Computação na Universidade Federal do Oeste do Pará. Programo desde o ensino médio e atualmente estou focada no front-end, aprimorando minhas habilidades em Javascript e Typescript. Sinta-se à vontade para explorar os projetos que estou desenvolvendo aqui no meu perfil! 😊
 
-# 🖥 Tecnologias e ferramentas:
+## 🖥 Tecnologias e ferramentas
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
 <div style="display: inline_block">
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -21,38 +22,16 @@
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>   
 
-# 📫 Contato: 
+## 📫 Contato: 
 
 <div>
           <a href="https://www.linkedin.com/in/gabriellebcastro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-                             badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-# 💡 Github Stats:
+## 💡 Github Stats:
 
 <div>
 <a href="https://github.com/gabriellebcastro">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriellebcastro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriellebcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-          
-          
-          
-          
-          
-
-<!--
-**gabriellebcastro/gabriellebcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
