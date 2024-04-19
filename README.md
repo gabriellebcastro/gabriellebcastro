@@ -10,7 +10,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 `HTML5` `CSS3` `AngularJS` `Node.js` `TypeScript` `JavaScript` `Python` `Java` `C` `C++` `C#` `Git`
 
 ## 📫 Contato: 
-
+Entre em contato pelo LinkedIn. :)
 <div>
           <a href="https://www.linkedin.com/in/gabriellebcastro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-                             badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
