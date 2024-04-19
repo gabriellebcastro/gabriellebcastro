@@ -7,6 +7,8 @@ Olá! Meu nome é **Gabrielle**, tenho 23 anos e estudo Ciência da Computação
 ## 🖥 Tecnologias e ferramentas
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
+`HTML5` `CSS3` `AngularJS` `Node.js` `TypeScript` `JavaScript` `Python` `Java` `C` `C++` `C#` `Git`
+
 <div style="display: inline_block">
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
